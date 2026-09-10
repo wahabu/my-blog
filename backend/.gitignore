@@ -16,3 +16,4 @@ dist/
 # SQLite database (if used)
 *.db
 *.sqlite
+.strapi-updater.json
